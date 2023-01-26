@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manthan Soni</h1>
 <h3 align="center">A passionate Web Developer from India.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthansoni&label=Profile%20views&color=0e75b6&style=flat" alt="manthansoni" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manthansoni&label=Profile%20views&color=0e75b6&style=flat" alt="manthansoni" /> </p>
 
 - 🌱 I’m currently learning **Flutter and ReactJS**
 
