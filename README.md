@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthansoni&label=Profile%20views&color=0e75b6&style=flat" alt="manthansoni" /> </p>
 
-- 🌱 I’m currently learning **Flutter and NodeJS**
-
 - 💬 Ask me about **Web development, Android development**
 
 - 📫 How to reach me **manthan04soni@gmail.com**
